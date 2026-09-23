@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+car_price_model.joblib
+cleaned_dataset.csv
